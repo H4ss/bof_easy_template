@@ -26,4 +26,4 @@ This Python script demonstrates a simple buffer overflow exploit payload constru
 2. Run the script with the following command:
 
    ```bash
-   python3 exploit.py
+   python3 bof.py
